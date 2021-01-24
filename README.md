@@ -2,8 +2,9 @@
 
 Ao iniciar o projeto através do VS2019, será criado o banco de dados, com usuário admin, senha 123.
 
-Posue três cadastros, Usuário, Empresa e Fornecedor.
+Possui três cadastros, Usuário, Empresa e Fornecedor.
 Uma empresa possui N Fornecedores.
+O Cadastro de usuário serve para fornecer acesso aos demais usuários ao sistema.
 
 Tecnologias adotadas:
 Aplicação em ASP.NET Core MVC ASP.NET Core MVC
